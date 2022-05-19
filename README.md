@@ -2,7 +2,7 @@
 ## A beginner developper, mostly working with python, html and css
 
 - 🌱 I’m currently studying **website managing and hosting**
-- 🔭 I’m currently working on <a href="erikpersson.one">my personal website</a>
+- 🔭 I’m currently working on <a href="https://erikpersson.one/">my personal website</a>
 
 
 
