@@ -1,10 +1,14 @@
 # I am Erik Persson
-## A beginner developper, mostly working with python, html and css
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikPersson2003&theme=tokyonight" align="right"/>
+
+## I am a beginner developper who mostly work with python, html and css
+
+
+
 
 - 🌱 I’m currently studying **website managing and hosting**
 - 🔭 I’m currently working on <a href="https://erikpersson.one/">my personal website</a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikPersson2003&theme=tokyonight)
 
 
 
