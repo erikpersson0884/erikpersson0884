@@ -4,6 +4,7 @@
 - 🌱 I’m currently studying **website managing and hosting**
 - 🔭 I’m currently working on <a href="https://erikpersson.one/">my personal website</a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikPersson2003&theme=tokyonight)
 
 
 
