@@ -39,5 +39,20 @@ Here you can see the actual stats:
 </p>
 
 
+
+
+
+<h3 align="left">Connect With Me:</h3>
+<p align="left">
+<a href="https://twitter.com/erikpersson0884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: erikpersson0884" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/erik-persson-aa8b4b230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin: erik-persson-aa8b4b230" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17924660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow username: 17924660" height="30" width="40" /></a>
+
+<a href="https://instagram.com/erikpersson2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram: Erikpersson2003" height="30" width="40" /></a>
+<a href="https://discord.gg/fM6TZKd7Pq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Server: fM6TZKd7Pq" height="30" width="40" /></a>
+</p>
+
+
+
  *_0884*
  
