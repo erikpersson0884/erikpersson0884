@@ -1,8 +1,14 @@
 # Hey, I'm Erik Persson 👋
 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpersson0884&theme=tokyonight" align="right"/>
 
 ## Student at Chalemrs University of Technology
+
+
+
+
+
 
 ![Github licence](https://img.shields.io/badge/Profile_views-245-0e75b6?style=flat-square)
 
@@ -12,9 +18,12 @@ You are not as stupid as I thought you were...
 -->
 
 
+
 🌱 I’m currently studying **Software development** and **Python**
 
 🔭 I’m currently working on <a href="https://erikpersson.one/">my personal website</a>
+
+
 
 
 
@@ -32,5 +41,5 @@ You are not as stupid as I thought you were...
 </p>
 
 
- *_0884* 
+ *_0884*
  
