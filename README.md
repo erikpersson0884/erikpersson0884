@@ -9,7 +9,9 @@
 ![Github licence](https://img.shields.io/badge/Profile_views-245-0e75b6?style=flat-square)
 
 <!--
-You are not as stupid as I thought you were...
+You are not as stupid as I thought...
+Here you can see the actual stats:
+
 ![Github profile views](https://komarev.com/ghpvc/?username=erikpersson0884&label=Profile%20views&color=0e75b6&style=flat)
 -->
 
