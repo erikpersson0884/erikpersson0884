@@ -6,10 +6,6 @@
 ## Student at Chalemrs University of Technology
 
 
-
-
-
-
 ![Github licence](https://img.shields.io/badge/Profile_views-245-0e75b6?style=flat-square)
 
 <!--
