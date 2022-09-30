@@ -17,9 +17,9 @@ Here you can see the actual stats:
 
 
 
-🌱 I’m currently studying **Software development** and **Python**
+🌱 Currently studying **Software development** and **Python**
 
-🔭 I’m currently working on <a href="https://erikpersson.one/">my personal website</a>
+🔭 Currently working on <a href="https://erikpersson.one/">my personal website</a>
 
 
 
