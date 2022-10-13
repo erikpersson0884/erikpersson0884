@@ -1,10 +1,10 @@
 # Hey, I'm Erik Persson 👋
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpersson0884&theme=tokyonight" align="right"/>
+
 
 ## Student at Chalmers University of Technology
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpersson0884&theme=tokyonight" align="right"/>
 
 ![Github licence](https://img.shields.io/badge/Profile_views-245-0e75b6?style=flat-square)
 
