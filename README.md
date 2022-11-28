@@ -6,14 +6,9 @@
 ## Student at Chalmers University of Technology
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpersson0884&theme=tokyonight" align="right"/>
 
-![Github licence](https://img.shields.io/badge/Profile_views-245-0e75b6?style=flat-square)
-
-<!--
-You are not as stupid as I thought...
-Here you can see the actual stats:
 
 ![Github profile views](https://komarev.com/ghpvc/?username=erikpersson0884&label=Profile%20views&color=0e75b6&style=flat)
--->
+
 
 
 
