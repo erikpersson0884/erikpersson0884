@@ -12,7 +12,7 @@
 
 
 
-🌱 Currently studying **Software development** and **Python**
+🌱 Currently studying **Software development** and **Java**
 
 🔭 Currently working on <a href="https://erikpersson.one/">my personal website</a>
 
