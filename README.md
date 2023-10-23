@@ -1,4 +1,4 @@
-# Hey, I'm Erik Persson 👋
+# Hey, I'm Erik 👋
 
 
 
