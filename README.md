@@ -12,7 +12,7 @@
 
 
 
-🌱 Currently studying **Software development** and **Java**
+🌱 Currently learning **React** and **Vite**
 
 
 
