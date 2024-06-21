@@ -1,19 +1,22 @@
 # Hey, I'm Erik 👋
-
-
-
-
 ## Student at Chalmers University of Technology
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpersson0884&theme=tokyonight" align="right"/>
 
 
 ![Github profile views](https://komarev.com/ghpvc/?username=erikpersson0884&label=Profile%20views&color=0e75b6&style=flat)
+![Last Contribution](https://img.shields.io/github/last-commit/erikpersson0884/github-last-contribution-badge?label=Last%20Contribution)
 
 
 
 🌱 Currently learning **React** and **Vite**
 
 👷 Currently working on **<a href="https://github.com/erikpersson0884/screenIT">screenIT</a>**
+
+
+
+
+
 
 
 
