@@ -11,9 +11,9 @@
 
 🌱 Currently learning **React** and **Vite**
 
-👷 Currently working on **<a href="https://github.com/erikpersson0884/Portfolio">my personal portfolio</a>**
+👷 Currently working on **<a href="https://github.com/erikpersson0884/fikit-frontend">a website for FikIT</a>**
 
-
+🥰 Just finished **<a href="https://github.com/erikpersson0884/Portfolio">my personal portfolio</a>**
 
 
 
