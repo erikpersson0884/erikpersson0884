@@ -11,7 +11,7 @@
 
 🌱 Currently learning **React** and **Vite**
 
-👷 Currently working on **<a href="https://github.com/erikpersson0884/vevit-v4">a hobby recipe project</a> with <a href="https://github.com/adenholm">Hanna Adenholm</a>**
+👷 Currently working on **<a href="https://github.com/erikpersson0884/heap-recipes">a hobby recipe project</a> with <a href="https://github.com/adenholm">Hanna Adenholm</a>**
 
 🥰 Just finished my long-time passion project, **<a href="https://github.com/erikpersson0884/vevit-v4">vevIT</a>**
 
