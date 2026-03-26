@@ -1,19 +1,16 @@
 # Hey, I'm Erik 👋
-## Student at Chalmers University of Technology
+Student at Chalmers University of Technology
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpersson0884&theme=tokyonight" align="right"/>
 
-
-![Github profile views](https://komarev.com/ghpvc/?username=erikpersson0884&label=Profile%20views&color=1010F0&style=flat)
-![Last Contribution](https://img.shields.io/github/last-commit/erikpersson0884/github-last-contribution-badge?label=Last%20Contribution&color=darkgreen)
-
-
+![Last Contribution](https://img.shields.io/github/last-commit/erikpersson0884/github-last-contribution-badge?label=Last%20Contribution&color=darkgreen&style=for-the-badge)
+![Github profile views](https://komarev.com/ghpvc/?username=erikpersson0884&label=Profile%20views&color=1010F0&style=for-the-badge)
 
 🌱 Currently learning **React** and **Vite**
 
 👷 Currently working on **<a href="https://github.com/erikpersson0884/heap-recipes">a hobby recipe project</a> with <a href="https://github.com/adenholm">Hanna Adenholm</a>**
 
-🥰 Just finished my long-time passion project, **<a href="https://github.com/erikpersson0884/vevit-v4">vevIT</a>**
+🥰 Just finished my long-time passion project, **<a href="https://github.com/erikpersson0884/strecklista">Strecklistan</a>** together with my friend <a href="https://github.com/olillin/">Charlotte Lindell</a>
 
 
 
@@ -52,12 +49,6 @@
 
 <a href="https://linkedin.com/in/erik-persson-aa8b4b230" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin: erik-persson-aa8b4b230" height="30" width="40" /></a>
-<a href="https://instagram.com/erikpersson2003" target="blank">
+<a href="https://instagram.com/erikpersson0884" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram: Erikpersson2003" height="30" width="40" /></a>
-<a href="https://x.com/erikpersson0884" target="blank">
-  <img align="center" src="https://github.com/user-attachments/assets/e5b65030-7582-44ab-97b2-5b04b0f958ff" alt="Twitter: erikpersson0884" width="40" /></a>
-<a href="https://stackoverflow.com/users/17924660" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow username: 17924660" height="30" width="40" /></a>
-<a href="https://discord.gg/fM6TZKd7Pq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Server: fM6TZKd7Pq" height="30" width="40" /></a>
-</p>
 
