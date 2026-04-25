@@ -10,7 +10,7 @@ Student at Chalmers University of Technology
 
 👷 Currently working on **<a href="https://github.com/erikpersson0884/heap-recipes">a hobby recipe project</a> with <a href="https://github.com/adenholm">Hanna Adenholm</a>**
 
-🥰 Just finished my long-time passion project, **<a href="https://github.com/erikpersson0884/strecklista">Strecklistan</a>** together with my friend <a href="https://github.com/olillin/">Charlotte Lindell</a>
+🥰 Just finished **<a href="https://github.com/erikpersson0884/screenit2">screenIT2</a>**, a digial event board used by the IT divisoin at Chalmers.
 
 
 
