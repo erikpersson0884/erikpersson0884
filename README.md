@@ -6,11 +6,11 @@ Student at Chalmers University of Technology
 ![Last Contribution](https://img.shields.io/github/last-commit/erikpersson0884/github-last-contribution-badge?label=Last%20Contribution&color=darkgreen&style=for-the-badge)
 ![Github profile views](https://komarev.com/ghpvc/?username=erikpersson0884&label=Profile%20views&color=1010F0&style=for-the-badge)
 
-🌱 Currently learning **React** and **Vite**
+🌱 Currently taking a deep dive into **Operating systems** and **C**
 
-👷 Currently working on **<a href="https://github.com/erikpersson0884/heap-recipes">a hobby recipe project</a> with <a href="https://github.com/adenholm">Hanna Adenholm</a>**
+👷 Currently working on **<a href="https://github.com/erikpersson0884/strecklista">strecklista</a> (a shared digital tally tab system) with my good friend <a href="https://github.com/olillin">Olillin</a>**
 
-🥰 Just finished **<a href="https://github.com/erikpersson0884/screenit2">screenIT2</a>**, a digial event board used by the IT divisoin at Chalmers.
+🥰 Just finished **<a href="https://github.com/erikpersson0884/screenit2">screenIT2</a>**, a digial event board used by the entire IT divisoin at Chalmers!
 
 
 
