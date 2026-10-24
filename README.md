@@ -6,7 +6,7 @@
 <!-- Animated tagline -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Erik+%F0%9F%91%8B;I+build+tools+people+actually+use;Currently+diving+into+operating+systems+and+C;TODO%3A+add+your+own+tagline+here" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Erik+%F0%9F%91%8B;I+build+tools+people+actually+use;Currently+diving+into+operating+systems+and+C;Helping+out+a+friend" alt="Typing SVG" />
   </a>
 </div>
 
