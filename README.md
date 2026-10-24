@@ -1,54 +1,46 @@
-# Hey, I'm Erik 👋
-Student at Chalmers University of Technology
+<h1 align="center">Hey, I'm Erik 👋</h1>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpersson0884&theme=tokyonight" align="right"/>
-
-![Last Contribution](https://img.shields.io/github/last-commit/erikpersson0884/github-last-contribution-badge?label=Last%20Contribution&color=darkgreen&style=for-the-badge)
-![Github profile views](https://komarev.com/ghpvc/?username=erikpersson0884&label=Profile%20views&color=1010F0&style=for-the-badge)
-
-🌱 Currently taking a deep dive into **Operating systems** and **C**
-
-👷 Currently working on **<a href="https://github.com/erikpersson0884/strecklista">strecklista</a> (a shared digital tally tab system) with my good friend <a href="https://github.com/olillin">Olillin</a>**
-
-🥰 Just finished **<a href="https://github.com/erikpersson0884/screenit2">screenIT2</a>**, a digial event board used by the entire IT divisoin at Chalmers!
-
-
-
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.w3.org/js/ target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/330px-Unofficial_JavaScript_logo_2.svg.png" height="40" /></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a> 
+<p align="center">
+  Student at Chalmers University of Technology<br>
+  Interested in operating systems, low-level programming and building useful tools
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/erikpersson0884/strecklista?label=Last%20Commit&color=darkgreen&style=for-the-badge" alt="Last commit" />
+  <img src="https://komarev.com/ghpvc/?username=erikpersson0884&label=Profile%20views&color=1010F0&style=for-the-badge" alt="Profile views" />
+</p>
 
+---
 
+## 🚀 What I'm up to
 
-<h3 align="left">Connect With Me:</h3>
+- 🌱 **Learning:** operating systems and C
+- 👷 **Building:** [strecklista](https://github.com/erikpersson0884/strecklista), a shared digital tally tab system, together with my friend [Olillin](https://github.com/olillin)
+- ✅ **Recently shipped:** [screenIT2](https://github.com/erikpersson0884/screenit2), a digital event board used by the entire IT division at Chalmers
+
+---
+
+## 🛠️ Languages and tools
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,c,linux,git" alt="Languages and tools" />
+</p>
 
-<a href="https://linkedin.com/in/erik-persson-aa8b4b230" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin: erik-persson-aa8b4b230" height="30" width="40" /></a>
-<a href="https://instagram.com/erikpersson0884" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram: Erikpersson2003" height="30" width="40" /></a>
+---
 
+## 📊 Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpersson0884&theme=tokyonight&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 🤝 Connect with me
+
+<a href="https://linkedin.com/in/erik-persson-aa8b4b230">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/erikpersson0884">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
